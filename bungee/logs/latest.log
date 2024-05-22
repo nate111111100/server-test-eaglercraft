@@ -74,3 +74,5 @@
 [16:05:01] [main/INFO]: Command not found
 [16:13:41] [main/INFO]: Command not found
 [16:17:14] [main/INFO]: Command not found
+[16:21:30] [main/INFO]: Command not found
+[16:33:31] [Netty Worker IO Thread #3/WARN] [EaglercraftXBungee]: Server icon is not a file: /workspaces/server-test-eaglercraft/bungee/server-icon.png
