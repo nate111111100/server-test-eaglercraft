@@ -36,8 +36,11 @@
 #         permission: op
 #         commands:
 #             - /ban
+#             - /op
 #             - /ban-ip
 #             - /banlist
+#             - /help
+#             - /
 # 
 # Topic amendments are used to change the content of automatically generated plugin command topics.
 # amended-topics:

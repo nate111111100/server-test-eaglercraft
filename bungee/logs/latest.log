@@ -76,3 +76,14 @@
 [16:17:14] [main/INFO]: Command not found
 [16:21:30] [main/INFO]: Command not found
 [16:33:31] [Netty Worker IO Thread #3/WARN] [EaglercraftXBungee]: Server icon is not a file: /workspaces/server-test-eaglercraft/bungee/server-icon.png
+[16:34:28] [main/INFO]: Command not found
+[16:39:00] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:58720]: Connected via websocket
+[16:39:00] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:58720]: Origin header is http://localhost:8081
+[16:39:01] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:58720]: Logged in as '12111'
+[16:39:01] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:58720|12111] -> UpstreamBridge has connected
+[16:39:01] [Netty Worker IO Thread #2/INFO]: [12111|/[0:0:0:0:0:0:0:1%0]:58720] <-> ServerConnector [lobby] has connected
+[16:41:49] [main/INFO]: Command not found
+[16:48:13] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:58720|12111] -> UpstreamBridge has disconnected
+[16:48:13] [Netty Worker IO Thread #2/INFO]: [12111] disconnected with: Proxy lost connection to server.
+[16:48:13] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:58720|12111] <-> DownstreamBridge <-> [lobby] has disconnected
+[16:50:00] [main/INFO]: Command not found
